@@ -1,0 +1,6 @@
+framework module Pods_KeysocCodingTest {
+  umbrella header "Pods-KeysocCodingTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
