@@ -18,3 +18,4 @@ github 地址： https://github.com/Mario0719/MarioCodingTest
 下载之后如果没有Pods, 则需要在终端cd 到 项目路径； 使用pod install 安装第三方库。
 
 
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-07 at 02 24 20](https://github.com/Mario0719/MarioCodingTest/assets/10015147/0fc54a97-691e-42ef-95cf-f5a634b121b5)
