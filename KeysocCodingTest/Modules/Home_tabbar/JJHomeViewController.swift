@@ -20,6 +20,8 @@ class JJHomeViewController: JJBaseViewController {
         
         setUI()
         binding()
+        
+        self.viewModel.loadLimit()
     }
     
     
@@ -98,10 +100,6 @@ class JJHomeViewController: JJBaseViewController {
         }).disposed(by: self.disposeBag)
         
         
-        
-        
-        self.viewModel.loadLimit()
-
 
     }
 
