@@ -36,6 +36,8 @@
 		ACBAA7942AF7244500E032D5 /* RealmHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBAA7932AF7244500E032D5 /* RealmHelper.swift */; };
 		ACBAA7982AF774E900E032D5 /* FavoriteViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBAA7972AF774E900E032D5 /* FavoriteViewModel.swift */; };
 		ACBAA79A2AF7956600E032D5 /* RealmTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBAA7992AF7956600E032D5 /* RealmTools.swift */; };
+		ACE50D1D2AF8D6FA004BE54C /* HomeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACE50D1B2AF8D6FA004BE54C /* HomeCell.swift */; };
+		ACE50D1E2AF8D6FA004BE54C /* HomeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = ACE50D1C2AF8D6FA004BE54C /* HomeCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +79,8 @@
 		ACBAA7932AF7244500E032D5 /* RealmHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RealmHelper.swift; sourceTree = "<group>"; };
 		ACBAA7972AF774E900E032D5 /* FavoriteViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteViewModel.swift; sourceTree = "<group>"; };
 		ACBAA7992AF7956600E032D5 /* RealmTools.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RealmTools.swift; sourceTree = "<group>"; };
+		ACE50D1B2AF8D6FA004BE54C /* HomeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCell.swift; sourceTree = "<group>"; };
+		ACE50D1C2AF8D6FA004BE54C /* HomeCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeCell.xib; sourceTree = "<group>"; };
 		EEB2EA145FA7CBCB6359B020 /* Pods_KeysocCodingTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KeysocCodingTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -163,6 +167,8 @@
 			isa = PBXGroup;
 			children = (
 				ACB5FC342AF38979005FBFC7 /* JJHomeViewController.swift */,
+				ACE50D1B2AF8D6FA004BE54C /* HomeCell.swift */,
+				ACE50D1C2AF8D6FA004BE54C /* HomeCell.xib */,
 			);
 			path = Home_tabbar;
 			sourceTree = "<group>";
@@ -319,6 +325,7 @@
 				ACB5FC1F2AF381D4005FBFC7 /* Assets.xcassets in Resources */,
 				ACBAA7772AF6527800E032D5 /* JJSearchViewController.xib in Resources */,
 				ACBAA7852AF6F17D00E032D5 /* MusicCell.xib in Resources */,
+				ACE50D1E2AF8D6FA004BE54C /* HomeCell.xib in Resources */,
 				ACB5FC1D2AF381D3005FBFC7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -386,6 +393,7 @@
 				ACBAA7812AF6E67900E032D5 /* MJRefresh+RxSwift.swift in Sources */,
 				ACBAA7792AF6564C00E032D5 /* SearchViewModel.swift in Sources */,
 				ACBAA7842AF6F17D00E032D5 /* MusicCell.swift in Sources */,
+				ACE50D1D2AF8D6FA004BE54C /* HomeCell.swift in Sources */,
 				ACB5FC162AF381D3005FBFC7 /* AppDelegate.swift in Sources */,
 				ACB5FC392AF389B1005FBFC7 /* JJUserViewController.swift in Sources */,
 				ACBAA7652AF4FF3900E032D5 /* UIDeviceExtension.swift in Sources */,
