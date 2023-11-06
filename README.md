@@ -2,6 +2,7 @@
 Coding Test for Native Mobile Developer
 
 Demo 使用纯 Swift 语言开发。
+使用Xcode 15.0.1 , 兼容版本 iOS 12 + 
 主要 采用 rxswift + mvvm 架构开发
 
 ## 页面介绍
@@ -18,4 +19,7 @@ github 地址： https://github.com/Mario0719/MarioCodingTest
 下载之后如果没有Pods, 则需要在终端cd 到 项目路径； 使用pod install 安装第三方库。
 
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-07 at 02 24 20](https://github.com/Mario0719/MarioCodingTest/assets/10015147/0fc54a97-691e-42ef-95cf-f5a634b121b5)
+#效果图 
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-07 at 02 24 20](https://github.com/Mario0719/MarioCodingTest/assets/10015147/3ed58fa1-494d-4108-88ee-f8ed0fc52cd3)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-07 at 02 27 36](https://github.com/Mario0719/MarioCodingTest/assets/10015147/acfd7230-bb95-44b0-be64-c253dfbbf406)
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-07 at 02 28 04](https://github.com/Mario0719/MarioCodingTest/assets/10015147/02f9ed69-9676-40a5-8cbc-3b7734ec1a00)
