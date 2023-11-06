@@ -19,8 +19,11 @@ class SearchViewModel {
     var data = PublishSubject<[MusicModel]>()
     var dataList = [MusicModel]()
     
+    // 记录当前页数
     private var pages = 1
+    // 每一个的数量
     private var size = 20
+    // 编辑是否还有更多数据
     private var isNoMore = true
     
     // 国家类型 列表
@@ -42,7 +45,7 @@ class SearchViewModel {
             self.loadLimit()
         }
     }
-    
+    // 条件列表
     private var limitList: [(String, (String,String))]
     
     var countryData = PublishSubject<[(String,(String,String))]>()
