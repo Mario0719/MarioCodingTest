@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  KeysocCodingTest
+
+  Created by 郭嘉俊 on 2023/11/2.
+  
+*/
+// 英文
+
+"首页" = "Home";
+"收藏夹" = "Favorite";
+"我的" = "User";
+
+// 首页区域 多语言
+"搜索歌曲、专辑或艺术家" = "Search for songs, albums, or artists";
+
+
+"取消" = "Cancel";
+
+// 条件搜索
+"国家" = "Country";
+"默认" = "Default";
+"美国" = "US";
+"加拿大" = "CA";
+"中国" = "CN";
+"日本" = "JP";
+"韩国" = "KR";
+
+"媒体类型" = "Media Type";
+"全部" = "All";
+"电影" = "movie";
+"播客" = "podcast";
+"音乐" = "music";
+"音乐视频" = "musicVideo";
+"有声读物" = "audiobook";
+"短片" = "shortFilm";
+"电视节目" = "tvShow";
+"软件" = "software";
+"电子书" = "ebook";
